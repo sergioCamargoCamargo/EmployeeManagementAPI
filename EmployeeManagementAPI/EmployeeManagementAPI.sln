@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementAPI", "EmployeeManagementAPI\EmployeeManagementAPI.csproj", "{502A3CE9-F29B-4DA1-A67D-7ABC087B7C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementAPI.Tests", "EmployeeManagementAPI.Tests\EmployeeManagementAPI.Tests.csproj", "{E7A876F5-7D10-4728-B364-80668303408D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{07B6F194-EC42-4CDD-8B43-08C3D39068E8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502A3CE9-F29B-4DA1-A67D-7ABC087B7C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502A3CE9-F29B-4DA1-A67D-7ABC087B7C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502A3CE9-F29B-4DA1-A67D-7ABC087B7C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502A3CE9-F29B-4DA1-A67D-7ABC087B7C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A876F5-7D10-4728-B364-80668303408D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A876F5-7D10-4728-B364-80668303408D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A876F5-7D10-4728-B364-80668303408D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A876F5-7D10-4728-B364-80668303408D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EB4C240-9B3B-44EB-A79C-1EAFE4E043D0}
+	EndGlobalSection
+EndGlobal
