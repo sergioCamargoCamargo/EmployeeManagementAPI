@@ -24,7 +24,7 @@ Esta es una API RESTful construida con ASP.NET Core que permite gestionar una ba
 Clona el repositorio en tu máquina local:
 
 bash
-git clone https://github.com/tu_usuario/employee-management-api.git
+git clone https://github.com/sergioCamargoCamargo/EmployeeManagementAPI.git
 
 
 ### 2. Configurar la cadena de conexión
